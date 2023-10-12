@@ -18,18 +18,12 @@
     <ClInclude Include="hash.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="blockchain.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hash.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="blockchain.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

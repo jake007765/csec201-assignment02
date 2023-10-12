@@ -127,11 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="blockchain.h" />
     <ClInclude Include="hash.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="blockchain.c" />
     <ClCompile Include="hash.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
